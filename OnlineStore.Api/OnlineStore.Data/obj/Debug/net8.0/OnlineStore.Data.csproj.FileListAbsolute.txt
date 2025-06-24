@@ -1,0 +1,12 @@
+/Users/kalpawijesooriya/Projects/DotNet/OnlineStore/OnlineStore.Api/OnlineStore.Data/bin/Debug/net8.0/OnlineStore.Data.deps.json
+/Users/kalpawijesooriya/Projects/DotNet/OnlineStore/OnlineStore.Api/OnlineStore.Data/bin/Debug/net8.0/OnlineStore.Data.dll
+/Users/kalpawijesooriya/Projects/DotNet/OnlineStore/OnlineStore.Api/OnlineStore.Data/bin/Debug/net8.0/OnlineStore.Data.pdb
+/Users/kalpawijesooriya/Projects/DotNet/OnlineStore/OnlineStore.Api/OnlineStore.Data/obj/Debug/net8.0/OnlineStore.Data.csproj.AssemblyReference.cache
+/Users/kalpawijesooriya/Projects/DotNet/OnlineStore/OnlineStore.Api/OnlineStore.Data/obj/Debug/net8.0/OnlineStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalpawijesooriya/Projects/DotNet/OnlineStore/OnlineStore.Api/OnlineStore.Data/obj/Debug/net8.0/OnlineStore.Data.AssemblyInfoInputs.cache
+/Users/kalpawijesooriya/Projects/DotNet/OnlineStore/OnlineStore.Api/OnlineStore.Data/obj/Debug/net8.0/OnlineStore.Data.AssemblyInfo.cs
+/Users/kalpawijesooriya/Projects/DotNet/OnlineStore/OnlineStore.Api/OnlineStore.Data/obj/Debug/net8.0/OnlineStore.Data.csproj.CoreCompileInputs.cache
+/Users/kalpawijesooriya/Projects/DotNet/OnlineStore/OnlineStore.Api/OnlineStore.Data/obj/Debug/net8.0/OnlineStore.Data.dll
+/Users/kalpawijesooriya/Projects/DotNet/OnlineStore/OnlineStore.Api/OnlineStore.Data/obj/Debug/net8.0/refint/OnlineStore.Data.dll
+/Users/kalpawijesooriya/Projects/DotNet/OnlineStore/OnlineStore.Api/OnlineStore.Data/obj/Debug/net8.0/OnlineStore.Data.pdb
+/Users/kalpawijesooriya/Projects/DotNet/OnlineStore/OnlineStore.Api/OnlineStore.Data/obj/Debug/net8.0/ref/OnlineStore.Data.dll

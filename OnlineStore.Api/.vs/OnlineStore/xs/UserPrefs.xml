@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{70DA72CB-5DC3-4A30-B146-571F32746DC0}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineStore.Api/appsettings.json">
+    <Files>
+      <File FileName="OnlineStore.Api/Models/Product.cs" Line="12" Column="38" />
+      <File FileName="OnlineStore.Api/appsettings.json" Line="9" Column="2" />
+      <File FileName="OnlineStore.Api/Program.cs" Line="21" Column="1" />
+      <File FileName="OnlineStore.Data/AppDbContext.cs" />
+      <File FileName="OnlineStore.Api/OnlineStore.Api.http" Line="1" Column="1" />
+      <File FileName="OnlineStore.Api/Services/OrderService.cs" Line="1" Column="1" />
+      <File FileName="OnlineStore.Api/Services/Interfaces/IProductService.cs" Line="1" Column="1" />
+      <File FileName="OnlineStore.Api/Services/Interfaces/IOrderService.cs" Line="1" Column="1" />
+      <File FileName="OnlineStore.Api/Services/Interfaces/IMyservice.cs" Line="6" Column="19" />
+      <File FileName="OnlineStore.Api/Services/Myservice.cs" Line="14" Column="29" />
+      <File FileName="OnlineStore.Api/Controllers/OrderController.cs" Line="43" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnlineStore" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OnlineStore.Api PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+</Properties>
